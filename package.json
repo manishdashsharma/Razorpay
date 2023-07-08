@@ -1,0 +1,29 @@
+{
+  "name": "backend_lecturebasket",
+  "version": "1.0.0",
+  "description": "Correcting backend for Archit",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishdashsharma/backend_Lecturebasket.git"
+  },
+  "author": "manish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manishdashsharma/backend_Lecturebasket/issues"
+  },
+  "homepage": "https://github.com/manishdashsharma/backend_Lecturebasket#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "razorpay": "^2.8.6"
+  }
+}
